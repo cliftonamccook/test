@@ -1,3 +1,4 @@
 # test
 
-just a test repo!
+Just a test repo!
+Cloned using SSH
